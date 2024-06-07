@@ -14,7 +14,8 @@
 **Fecha:** 07/06/2024
 
 **Capturas de pantalla:**
-![Pagina-web-1.png](https://i.postimg.cc/wBxF0W2Y/Pagina-web-1.png)
+
+![Pagina-web-1.png](https://i.postimg.cc/hGnNgb02/Pagina-web-1.png)
 ![Pagina-web-2.png](https://i.postimg.cc/XJm8Nnbn/Pagina-web-2.png)
 ![Pagina-web-3.png](https://i.postimg.cc/hGGb9X4S/Pagina-web-3.png)
 ![Pagina-web-4.png](https://i.postimg.cc/zvwgmNDt/Pagina-web-4.png)
