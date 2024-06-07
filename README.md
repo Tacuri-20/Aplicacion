@@ -4,6 +4,8 @@
 - Hector Tacuri
 - Marco Orozco
 - Mathias Medina
+- David 
+- Tayron Morales
 
 **Ciclo:** Segundo/Primero
 
