@@ -5,12 +5,12 @@
 - Marco Orozco
 - Mathias Medina
 
-**Ciclo:** Segundo
+**Ciclo:** Segundo/Primero
 
 **Fecha:** 07/06/2024
 
 **Diagrama UML:**
-
+![UML.jpg](https://i.postimg.cc/vZsQKnCv/UML.jpg)
 
 **Casos de uso:**
 
