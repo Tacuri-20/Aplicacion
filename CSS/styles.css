@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    font-size: 18px; /* Aumentar el tamaño de la fuente base */
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px; /* Aumentar el tamaño de la fuente del menú */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+nav ul li button:hover {
+    background-color: #111;
+    transform: translateY(-5px);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#content {
+    padding: 20px;
+}
+
+.home {
+    background-image: url('img/Home.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.home h1, .home p {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 36px; /* Aumentar el tamaño de la fuente en la página principal */
+}
+
+form {
+    margin: 20px auto;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px; /* Aumentar el tamaño de la fuente de las etiquetas */
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px; /* Aumentar el tamaño del padding */
+    margin-bottom: 10px;
+    font-size: 18px; /* Aumentar el tamaño de la fuente de los inputs */
+}
+
+button {
+    width: 100%;
+    padding: 15px; /* Aumentar el tamaño del padding */
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18px; /* Aumentar el tamaño de la fuente del botón */
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 90%;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 20px; /* Aumentar el tamaño de la fuente de la tabla */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 16px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+canvas {
+    margin: 20px auto;
+    display: block;
+    width: 80%;
+    max-width: 800px;
+}
+
+#current-charge {
+    font-size: 28px; /* Aumentar el tamaño de la fuente de la carga actual */
+    font-weight: bold;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    margin: 10px;
+    text-align: center;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.contact-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.contact-section p {
+    width: 45%;
+    font-size: 18px; /* Aumentar el tamaño de la fuente del contacto */
+}
+
+.contact-section form {
+    width: 45%;
+}
