@@ -3,6 +3,7 @@
 **Integrantes:**
 - Hector Tacuri
 - Marco Orozco
+- Mathias Medina
 
 **Ciclo:** Segundo
 
